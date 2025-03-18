@@ -5,6 +5,8 @@
 ## 팀원 소개
 > **TEAM DOIT**<br>
 > 깔쌈한 프론트엔드 개발자 단체 DOIT 입니다.
+
+### Frontend
 <table align="center">
  <tr>
     <td align="center"><a href="https://github.com/xeunnie"><img src="https://github.com/user-attachments/assets/2d6bc2bc-e314-427c-bf3c-d4ed98a1686c" width="150px;" height="170px" alt="">
@@ -20,3 +22,27 @@
   </tr>
   </table>
 <br>
+
+### Backend & Designer
+<table align="center">
+ <tr>
+   <td align="center"><b>Backend</b></td>
+   <td align="center"><b>Designer</b></td>
+ </tr>
+ <tr>
+   <td align="center">
+     <a href="https://github.com/Coen90">
+       <img src="https://github.com/user-attachments/assets/90ec6b20-a187-447c-a57d-3ced1ae323ec" width="150px;" alt="">
+     </a>
+   </td>
+   <td align="center">
+     <a href="https://github.com/xeunnie">
+       <img src="https://github.com/user-attachments/assets/ec46fd73-ade0-47b4-accb-713ac76cf4d6" width="150px;" alt="">
+     </a>
+   </td>
+ </tr>
+ <tr>
+   <td align="center"><a href="https://github.com/Coen90"><b>박현태</b></a></td>
+   <td align="center"><a><b>김시라</b></a></td>
+ </tr>
+</table>
