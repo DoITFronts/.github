@@ -24,25 +24,19 @@
 <br>
 
 ### Backend & Designer
+
 <table align="center">
  <tr>
+    <td align="center" bgcolor="transparent"><a href="https://github.com/Coen90"><img src="https://github.com/user-attachments/assets/90ec6b20-a187-447c-a57d-3ced1ae323ec" width="150px;" alt="">
+    <td align="center" bgcolor="transparent"><a href=""><img src="https://github.com/user-attachments/assets/ec46fd73-ade0-47b4-accb-713ac76cf4d6" width="150px;" alt="">
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Coen90"><b>박현태</b></b></td>
+    <td align="center"><a href=""><b>김시라</b></td>
+  </tr>
+      <tr>
    <td align="center"><b>Backend</b></td>
    <td align="center"><b>Designer</b></td>
  </tr>
- <tr>
-   <td align="center">
-     <a href="https://github.com/Coen90">
-       <img src="https://github.com/user-attachments/assets/90ec6b20-a187-447c-a57d-3ced1ae323ec" width="150px;" alt="">
-     </a>
-   </td>
-   <td align="center">
-     <a href="https://github.com/xeunnie">
-       <img src="https://github.com/user-attachments/assets/ec46fd73-ade0-47b4-accb-713ac76cf4d6" width="150px;" alt="">
-     </a>
-   </td>
- </tr>
- <tr>
-   <td align="center"><a href="https://github.com/Coen90"><b>박현태</b></a></td>
-   <td align="center"><a><b>김시라</b></a></td>
- </tr>
-</table>
+  </table>
+<br>
